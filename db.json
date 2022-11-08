@@ -22,23 +22,23 @@
 		},
 		"six": {
 			"url": "",
-			"isToPage": true
+			"isToPage": false
 		},
 		"seven": {
 			"url": "",
-			"isToPage": true
+			"isToPage": false
 		},
     "eight": {
 			"url": "",
-			"isToPage": true
+			"isToPage": false
 		},
     "nine": {
 			"url": "",
-			"isToPage": true
+			"isToPage": false
 		},
     "ten": {
 			"url": "",
-			"isToPage": true
+			"isToPage": false
 		}
 	}
 }
